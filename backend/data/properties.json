@@ -1,0 +1,42 @@
+[
+  {
+    "name": "SanDisk",
+    "price": "50",
+    "description": "Sandisk agood fast usd card",
+    "ratings": 4.5,
+    "images": ["download.jpg", "images.jpg", "download.png"],
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "TOZO T6 Wireless Bluetooth Headphones",
+    "price": "50",
+    "description": "TOZO T6 True Wireless Earbuds Bluetooth Headphones Touch Control with Wireless Charging Case IPX8 Waterproof Stereo Earphones in-Ear Built-in Mic Headset Premium Deep Bass for Sport Black",
+    "ratings": 4.5,
+    "images": [
+      "1626199245791_71d-CVN0pAL._AC_SL1500_.jpg",
+      "1626199245793_71gtHnQGfQL._AC_SL1500_.jpg",
+      "719oMqG2UtL._AC_SL1500_.jpg",
+      "81RohxdjvFL._AC_SL1500_.jpg"
+    ],
+    "category": "Acccessories",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "Adidas Fit Pant",
+    "category": "Sports",
+    "images": ["s-l640.jpg"],
+    "price": 139,
+    "stock": 12,
+    "seller": "Adidas",
+    "ratings": 4.5,
+    "numReviews": 15,
+    "description": "high quality product"
+  }
+]
