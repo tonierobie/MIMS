@@ -1,6 +1,6 @@
 # MIMS Property Management
 
-A complete Property management site built with NOde.js, React, Redux, Express, MongoDB
+A complete Property management site built with Node.js, React, Redux, Express, MongoDB
 
 ### Env Variables
 
